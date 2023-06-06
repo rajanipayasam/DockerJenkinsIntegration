@@ -42,7 +42,7 @@ node {
 	}
     /*stage('DockerBuild'){
 	
-	app = docker.build("mannam786/mydynamicapp")
+	app = docker.build("rajanipayasam/mydynamicapp")
 	
 	
 	}
